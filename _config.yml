@@ -14,7 +14,7 @@ paginate_path: "page/:num"
 categories_path : categories.html
 tags_path : tags.html
 
-BASE_PATH : https://brianasimba.github.io/Brian-Asimba-blog/
+BASE_PATH : https://brianasimba.github.io/MLblog/
 
 title : uno-dbyll
 
